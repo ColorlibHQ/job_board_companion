@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.job_board-pt-100 {
+    padding-top: 100px;
+}
+.job_board-pt-80 {
+    padding-top: 80px;
+}
+.job_board-pt-70 {
+    padding-top: 70px;
+}
+.job_board-pt-60 {
+    padding-top: 60px;
+}
+.job_board-pt-50 {
+    padding-top: 50px;
+}
+.job_board-pt-30 {
+    padding-top: 30px;
+}
+.job_board-pb-100 {
+    padding-bottom: 100px;
+}
+.job_board-pb-80 {
+    padding-bottom: 80px;
+}
+.job_board-pb-70 {
+    padding-bottom: 70px;
+}
+.job_board-pb-60 {
+    padding-bottom: 60px;
+}
+.job_board-pb-50 {
+    padding-bottom: 50px;
+}
+.job_board-pb-30 {
+    padding-bottom: 30px;
+}
